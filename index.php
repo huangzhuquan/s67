@@ -42,7 +42,7 @@ namespace hds{
 namespace {
     echo '<hr>';
     echo '本命名空间的名字: '.__NAMESPACE__;
-    $a = 200;
+    $a = 2222200;
     echo $a;
 }
 
