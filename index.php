@@ -12,6 +12,7 @@ namespace dds{
 
     echo DD1.'<br>';
     PDO::test();
+	echo 1234;
     echo '<hr>';
 }
 
